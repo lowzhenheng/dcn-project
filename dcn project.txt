@@ -1,0 +1,15 @@
+temperature sensor (done)
+light sensor
+humidity sensor
+soil moisture sensor  (done)
+CO2 detector
+
+
+
+IOT monitor
+username: admin
+password: cisco
+
+
+network ssid: MonitorPlant
+password : 12345678
